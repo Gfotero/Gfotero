@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Designing a Machine Learning Model to predict the severity of accidents in the United States.](https://github.com/Gfotero/Proyecto_Final.git)
 
-- 🌱 I’m currently learning **Data Science Certification at 4Geeks Acedemy**
+- 🌱 I’m currently learning **Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gfotero](https://github.com/Gfotero)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/Gfotero)
 
 - 💬 Ask me about **Python, SQL, Machine Learning Models, Power BI, Statistics**
 
 - 📫 How to reach me **gafernandez.otero@gmail.com**
 
-- 📄 Know about my experiences (https://flowcv.com/resume/aoief1mh3t)
+- 📄 Know about my experiences [here](https://flowcv.com/resume/aoief1mh3t)
 
 - ⚡ Fun fact **I'm funny because of the way I approach problems, enjoying every step along the way.**
 
