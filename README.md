@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gafernandez.otero@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Gfotero/Gfotero/blob/main/RC%20GF%20DataScience.pdf](https://github.com/Gfotero/Gfotero/blob/main/RC%20GF%20DataScience.pdf)
+- 📄 Know about my experiences (https://flowcv.com/resume/aoief1mh3t)
 
 - ⚡ Fun fact **I'm funny because of the way I approach problems, enjoying every step along the way.**
 
