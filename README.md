@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Fernández</h1>
-<h3 align="center">I am a person in constant change and I am currently moved by data and the way it is changing the lives of all human beings. As a Data Scientist and Analyst, I can contribute to identifying real opportunities in any business that stores data and enhance its participation in the market.</h3>
+<h3 align="left">I am a person in constant change and I am currently moved by data and the way it is changing the lives of all human beings. As a Data Scientist and Analyst, I can contribute to identifying real opportunities in any business that stores data and enhance its participation in the market.</h3>
 
 - 🔭 I’m currently working on [Designing a Machine Learning Model to predict the severity of accidents in the United States.](https://github.com/Gfotero/Proyecto_Final.git)
 
